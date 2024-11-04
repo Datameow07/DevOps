@@ -14,6 +14,12 @@
 10. write the command 
      cd DevOps (to change the directory)
      ls -lrt (to show the when was the file created and its details)
-11. meow....
+11. making use of these commands
+     git add prod.txt
+     git add .
+     git commit -m "first commit"
+     git push origin main
+     (then the file will be saved on github)
+12. if you make changes in github and commit changes then in order to bring the content on vscode
+     git pull origin main
 
-hello
