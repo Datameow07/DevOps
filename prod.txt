@@ -1,0 +1,17 @@
+1. download git
+2. open github
+3. create repo
+4. create a new file
+5. commit changes
+6. update any changes if any
+7. open VS code
+8. open terminal
+9. write the following commands on your terminal
+    git config --global user.name "Datameow07"
+    git config --global user.email "arbiazabi3094@gmail.com"
+    git clone https://github.com/Datameow07/DevOps.git 
+    (you can find the link in your repo code and it will be in the form fo https)
+10. write the command 
+     cd DevOps (to change the directory)
+     ls -lrt (to show the when was the file created and its details)
+11. 
